@@ -1,6 +1,6 @@
 baseURL               = "/"
 languageCode          = "zh-CN"
-title                 = "WebStack-Hugo 网址导航"
+title                 = "Hao网址导航"
 theme                 = "WebStack-Hugo"
 preserveTaxonomyNames = true
 disablePathToLower    = true
