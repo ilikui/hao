@@ -552,17 +552,17 @@
 - taxonomy: 教育科学
   icon: fas fa-user-graduate fa-lg
   list: 
-    - term: 资讯书籍
+    - term: 小学教育
       links:
-        - title: 微信读书
-          url: https://weread.qq.com/
+        - title: 国家中小学智慧教育平台
+          url: https://web-bd.ykt.eduyun.cn/
           logo: 微信读书.jpg
-          description: 微信读书电脑版。
-        - title: 书栈网
-          url: https://www.bookstack.cn/
+          description: 国家中小学智慧教育平台。
+        - title: 国家中小学智慧教育平台
+          url: https://www.smartedu.cn/
           logo: 书栈网.jpg
-          description: IT 互联网开源编程书籍免费阅读与下载。
-    - term: 博客论坛
+          description: 国家智慧教育公共服务平台。
+    - term: 初中教育
       links:
         - title: Inoreader
           url: https://www.inoreader.com/
@@ -584,7 +584,7 @@
           url: https://www.coolshell.cn/
           logo: ''
           description: 酷 壳 – CoolShell。
-    - term: 设计规范
+    - term: 高中教育
       links:
         - title: Design Guidelines
           url: http://designguidelines.co/
